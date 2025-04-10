@@ -4,7 +4,7 @@ This project was my first attempt at Java. It is a simple game where the user tr
 
 My purpose in writing this was to get familiar with the Java language and I believed a game would be fun.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/zWUMowFIimc)
 
 # Development Environment
 
